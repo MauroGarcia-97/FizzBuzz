@@ -1,4 +1,5 @@
-En Español 
+En Español <br>
+
 Escribe el programa que muestre por consola (con un print) los
 números de 1 a 100 (ambos incluidos y con un salto de línea entre
 cada impresión), sustituyendo los siguientes:
@@ -6,7 +7,8 @@ cada impresión), sustituyendo los siguientes:
  - Múltiplos de 5 por la palabra "buzz".
  - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
 
-In English
+In English <br>
+
 Write the program that shows through the console (with a print) the
 numbers from 1 to 100 (both included and with a line break between
 each print), replacing the following:
